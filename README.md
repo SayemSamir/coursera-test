@@ -54,7 +54,7 @@ Coursera test repository
   <h2 style="color: #8e44ad;">🤝 Connect With Me</h2>
   <p style="font-size: 1em; color: #666;">I'm always open to new opportunities and collaborations!</p>
   <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
-    <a href="mailto:your.email@example.com" target="_blank" style="text-decoration: none;">
+    <a href="sayemuddinsamir00@gmail.com" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://linkedin.com/in/gazi-sayem-uddin-samir" target="_blank" style="text-decoration: none;">
@@ -70,5 +70,5 @@ Coursera test repository
 </div>
 
 <p align="center" style="font-size: 0.8em; color: #999; margin-top: 40px;">
-  &copy; 2025 [Your Full Name]. All rights reserved.
+  &copy; 2025 [Gazi Sayem Uddin Samir]. All rights reserved.
 </p>
