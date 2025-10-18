@@ -57,7 +57,7 @@ Coursera test repository
     <a href="mailto:your.email@example.com" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://linkedin.com/in/YOUR-LINKEDIN-PROFILE" target="_blank" style="text-decoration: none;">
+    <a href="https://linkedin.com/in/gazi-sayem-uddin-samir" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://x.com/SamirSayem80470" target="_blank" style="text-decoration: none;">
