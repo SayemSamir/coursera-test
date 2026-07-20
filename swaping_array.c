@@ -8,3 +8,4 @@ int main(){
   b=temp;
   printf("A= %d\nB= %d",a,b);
 }
+
