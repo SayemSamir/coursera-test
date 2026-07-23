@@ -1,3 +1,37 @@
+<div align="center">
+
+  <!-- animated contribution graph: auto-refreshed daily -->
+  <h3><code>gazi@github ~ $ ./contributions.sh</code></h3>
+
+  <img src="./contrib-heatmap.svg" width="860" alt="Gazi's GitHub contribution graph — auto-refreshed daily" />
+
+  <br><br>
+
+  <h3><code>gazi@github ~ $ whoami</code></h3>
+
+  <table>
+    <tr>
+      <td valign="top"><img src="./avi-ascii.svg" width="370" alt="Gazi Sayem Uddin — Portrait" /></td>
+      <td valign="top"><img src="./info-card.svg" width="490" alt="Gazi Sayem Uddin — Experience & Stack" /></td>
+    </tr>
+  </table>
+
+  <br><br>
+
+  <h3><code>gazi@github ~ $ ./links.sh</code></h3>
+
+  <p><b>Full-Stack Developer · CSE Student · UI/UX Enthusiast</b></p>
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio-gazisayem.dev-0d1117?style=for-for-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-gazi__sayem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
+  [![Pinterest](https://img.shields.io/badge/Pinterest-Skin_Glow_Lab-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com)
+
+  <br>
+
+</div>
+
+
+
 # coursera-test
 Coursera test repository
 <div align="center">
